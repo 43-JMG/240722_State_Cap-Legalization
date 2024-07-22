@@ -9,4 +9,16 @@ editor: visual
 
 La idea fundamental es seguir la linea de Tily sobre la conformación del Estado y sus capacidades como respuesta al conflicto armado. Tily refería conflictos internacionales como la base histórica del desarrollo de los Estados Europeos pero esta tesis no aplica como tal en Lat Am. La respuesta de la literatura ha sido girar la mirada hacia los conflictos inter-elites al interior de los países.
 
+La hipotesis central es que el Estado es el instrumento de la elite gobernante ante sus opositoras. Un momento de debilidad militar, financiera o de otro tipo en la elite opositora $e_o$ permite a la elite gobernante $e_g$ aumentar su capacidad instalada de ejercicio de fuerza, sino tomar acciones para reprimir a la $e_o$.
+
 Montados en esta (jasjsj) hipotesis, podríamos intentar analizar el efecto del conflicto entre elites gubernamentales e informales (DTOs) en los municipios de México.
+
+# Vitacora de trabajo
+
+Acá el plan de chambita
+
+## Datos y limpieza
+
+Voy a empezar sacando los datos sobre capacidad estatal del **Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México** que tiene el INEGI. Los datos son cada otro año entre 2011 y 2023. Por otro lado voy a ir buscando las fechas de legalización de la marihuana por Estado en Estados Unidos.
+
+A este punto creo que la mas importante sería la _Adult Use of Marijuana Actde California en 2016_ que permite uso recreativo y venta libre desde el año citado. Ahí habría que revisar el contenido del Bill y sus efectos empero parece que corta de facto un mercado importante a las DTOs, especialmente a las del noroeste mexicano.
