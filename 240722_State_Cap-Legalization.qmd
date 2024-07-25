@@ -24,3 +24,6 @@ Voy a empezar sacando los datos sobre capacidad estatal del **Censo Nacional de 
 A este punto creo que la mas importante sería la _Adult Use of Marijuana Actde California en 2016_ que permite uso recreativo y venta libre desde el año citado. Ahí habría que revisar el contenido del Bill y sus efectos empero parece que corta de facto un mercado importante a las DTOs, especialmente a las del noroeste mexicano.
 
 Tenemos datos sobre racursos humanos en los ayuntamientos y en la función municipal de seguridad pública, así como a nivel estatal de ambas cosas. Igual hay información sobre operativos de las policías municipales pero a esos aún no les he echado el ojo
+
+### 240724
+Ya están los datos de personal municipal entre 2015 y 2023. Ahora voy a empezar con los de policía. 
