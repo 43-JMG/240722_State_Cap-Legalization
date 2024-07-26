@@ -27,3 +27,7 @@ Tenemos datos sobre racursos humanos en los ayuntamientos y en la función munic
 
 ### 240724
 Ya están los datos de personal municipal entre 2015 y 2023. Ahora voy a empezar con los de policía. 
+
+### 240725
+
+Ya están los datos con algunas variables socioeconómicas a nivel municipal. Estoy pensando que este proyecto tiene dos etapas empiricas. 1) Comprobar que la legalización tiene un efecto adverso en las élites exportadoras (DTOs) y luego, 2) que este momento adverso es aprovechado por los gobiernos municipales para crear capacidades estatales. Creo que lo primero podría resolverse echando mano de econometría espacial con datos sobre campos ademas de controlar por gdp municipal con nighlights.
